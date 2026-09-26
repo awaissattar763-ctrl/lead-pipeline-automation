@@ -1,5 +1,7 @@
 # Lead Pipeline Automation (Concept Demo)
 
+**Live demo:** https://awaissattar763-ctrl.github.io/lead-pipeline-automation/
+
 A polished **concept demo** of an n8n-style lead pipeline for small businesses,
 built to show prospective clients (agencies, home-service businesses) what
 happens when website inquiries are captured, scored, and followed up
